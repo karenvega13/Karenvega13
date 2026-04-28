@@ -1,4 +1,4 @@
-# Hi, I'm Karen Vega 👋
+# Hi, I'm Angelica Vega 👋
 
 **Data Scientist focused on AI Automation & Machine Learning**
 
