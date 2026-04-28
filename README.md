@@ -45,4 +45,4 @@ End-to-end ML pipeline for a Colombian financial institution: predicts whether a
 
 ## 📫 Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karenvega13/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/karenvega13/](https://www.linkedin.com/in/ang%C3%A9lica-vega-361059346))
