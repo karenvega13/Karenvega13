@@ -21,15 +21,15 @@ Today I build recommender systems, LLM-powered agents, and data tooling that mak
 
 ## 🚀 Featured Projects
 
-### 🛒 [Instacart Cross-Seller Recommender](https://github.com/Karenvega13/instacart-cross-seller-recommender)
+### 🛒 [Instacart Cross-Seller Recommender](https://github.com/karenvega13/pf-henry-recommender)
 Cross-selling recommendation system combining **ALS** (collaborative filtering) and **FP-Growth** (association rule mining) on the public Instacart dataset. Two complementary approaches: one captures individual purchase patterns, the other captures basket-level co-occurrence.
 `Python` `PySpark/implicit` `mlxtend` `pandas`
 
-### 🔍 [Metabase Quality Auditor](https://github.com/Karenvega13/metabase-quality-auditor)
+### 🔍 [Metabase Quality Auditor](https://github.com/karenvega13/metabase-audit-agent)
 LLM-powered agent that audits Metabase instances for broken queries, duplicate metrics, and data quality issues — then reports findings and suggests fixes. Built with Claude Code on top of the Metabase API.
 `Python` `LLMs` `Claude Code` `Metabase API`
 
-### 💳 [MLOps Pipeline — Credit Payment Predictor](https://github.com/Karenvega13/mlops-credito)
+### 💳 [MLOps Pipeline — Credit Payment Predictor](https://github.com/karenvega13/mlops_creditos)
 End-to-end ML pipeline for a Colombian financial institution: predicts whether a new client will pay their credit on time, enabling risk segmentation before loan disbursement and reducing default rates. Deployed with a FastAPI backend and Streamlit front-end.
 `Python` `scikit-learn` `FastAPI` `Streamlit`
 
@@ -45,4 +45,4 @@ End-to-end ML pipeline for a Colombian financial institution: predicts whether a
 
 ## 📫 Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/ang%C3%A9lica-vega-361059346])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/ang%C3%A9lica-vega-361059346)
