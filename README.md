@@ -1,8 +1,8 @@
-# Hi, I'm Angelica Vega 👋
+# Hi, I'm Angelica 👋
 
 **Data Scientist focused on AI Automation & Machine Learning**
 
-I took the long road to data: Linguistics degree, customer experience at Cash App and MPF, language teaching at Berlitz — and at some point realized that understanding what people really need and translating it into something actionable *is* the job, whether you're talking to a user or to a dataset.
+I took the long road to data: Linguistics degree, customer experience at Cash App and MPF, language teaching at Berlitz, and at some point realized that understanding what people really need and translating it into something actionable *is* the job, whether you're talking to a user or to a dataset.
 
 Today I build recommender systems, LLM-powered agents, and data tooling that makes analytical work faster and more reliable.
 
@@ -14,7 +14,6 @@ Today I build recommender systems, LLM-powered agents, and data tooling that mak
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude%20Code-D97757?style=flat)
 
 ---
@@ -26,7 +25,7 @@ Cross-selling recommendation system combining **ALS** (collaborative filtering) 
 `Python` `PySpark/implicit` `mlxtend` `pandas`
 
 ### 🔍 [Metabase Quality Auditor](https://github.com/karenvega13/metabase-audit-agent)
-LLM-powered agent that audits Metabase instances for broken queries, duplicate metrics, and data quality issues — then reports findings and suggests fixes. Built with Claude Code on top of the Metabase API.
+LLM-powered agent that audits Metabase instances for broken queries, duplicate metrics, and data quality issues, then reports findings and suggests fixes. Built with Claude Code on top of the Metabase API.
 `Python` `LLMs` `Claude Code` `Metabase API`
 
 ### 💳 [MLOps Pipeline — Credit Payment Predictor](https://github.com/karenvega13/mlops_creditos)
